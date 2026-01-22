@@ -1,1 +1,6 @@
+[
+  { "id": "bag01", "name": "Template 01", "url": "/models/bag-01.glb" },
+  { "id": "bag02", "name": "Template 02", "url": "/models/bag-02.glb" },
+  { "id": "bag03", "name": "Template 03", "url": "/models/bag-03.glb" }
+]
 
